@@ -15,7 +15,7 @@
     "ios": "7.0"
   },
   "source": {
-    "http": "https://sdkfiledl.jiguang.cn/cocoapods/jcore/JCore-iOS-4.7.1-noidfa.zip"
+    "http": "https://cdn.oral-craft.com/app/ios/cocoapods/jcore/JCore-iOS-4.7.1-noidfa.zip"
   },
   "vendored_frameworks": "*.xcframework",
   "frameworks": [
